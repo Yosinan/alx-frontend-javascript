@@ -1,7 +1,5 @@
-export default function setFromArray(set, array) {
-  if (Array.isArray(array)) {
+export default function setFromArray(array) {
+ 
     return new Set(array);
-  }
 
-  return set;
 }
