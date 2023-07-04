@@ -1,15 +1,23 @@
 {
   "name": "0x03-es6_data_manipulation",
   "version": "1.0.0",
+<<<<<<< HEAD
   "description": "- Javascript  - ES6 - Array - Typed Array - Map Data Structure - WeakMap",
+=======
+  "description": "- Javascript \r - ES6\r - Array\r - Typed Array\r - Map Data Structure\r - WeakMap",
+>>>>>>> ad2802eabe68b38408e7e55d75075ed4c7da7447
   "main": "0-get_list_students.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
+<<<<<<< HEAD
   "license": "ISC",
   "devDependencies": {
     "eslint": "^8.44.0"
   }
+=======
+  "license": "ISC"
+>>>>>>> ad2802eabe68b38408e7e55d75075ed4c7da7447
 }
